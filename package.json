@@ -1,0 +1,18 @@
+{
+  "name": "restock-planner",
+  "version": "1.0.2",
+  "description": "结合近期销量、采购周期和在途数量，测算库存天数与补货量。",
+  "license": "MIT",
+  "scripts": {
+    "test": "node --test tests/core.test.cjs"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "offline",
+    "browser",
+    "local-first",
+    "tool"
+  ]
+}

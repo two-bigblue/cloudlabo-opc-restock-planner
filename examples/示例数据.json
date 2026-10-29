@@ -1,0 +1,26 @@
+{
+  "format": "opc-offline-backup",
+  "version": 1,
+  "project": "B05",
+  "data": {
+    "_files": {},
+    "window": 30,
+    "safety": 7,
+    "items": [
+      {
+        "sku": "CUP01",
+        "stock": 20,
+        "sales": 60,
+        "lead": 14,
+        "incoming": 0
+      },
+      {
+        "sku": "CUP02",
+        "stock": 100,
+        "sales": 30,
+        "lead": 10,
+        "incoming": 20
+      }
+    ]
+  }
+}
